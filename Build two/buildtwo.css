@@ -1,0 +1,42 @@
+body{
+  background-color: #629AFF;
+}
+.Logo img{
+  width: 100px;
+  height: 100px;
+}
+#LVH{
+  font-size: 24px;
+  font-family: 'Lobster', cursive;
+}
+.navbar-nav li{
+  padding-left:30px;
+  padding-right:0px;
+  float: left;
+  font-family: 'Indie Flower', cursive;
+}
+
+.firstpara{
+  border:2px solid white;
+  background-color: #CBF99C;
+  width: 600px;
+  float: left;
+  font-family: 'Inconsolata', monospace;
+}
+.secondpara{
+  border:2px solid white;
+  background-color: #CBF99C;
+  width: 600px;
+  float: left;
+  margin-top: 50px;
+  font-family: 'Inconsolata', monospace;
+}
+.Newsletter{
+  margin-left: 640px;
+  background-color: #CBF99C;
+  margin-top: 0px;
+  border:2px solid white;
+  width: 300px;
+  height: 160px;
+  font-family: 'Crimson Text', serif;
+}
